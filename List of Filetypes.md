@@ -941,7 +941,6 @@ yaml.vim
 zimbu.vim
 zsh.vim
 
-
 # Syntax
 2html.vim
 8th.vim
