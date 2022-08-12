@@ -55,4 +55,8 @@
 
 * [Awk](Awk)
 
+* [Random commands](Random commands)
+
 # [Side hustles](Side hustles)
+
+# [Router](Router)
