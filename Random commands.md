@@ -26,6 +26,21 @@
 
 * ln - create symbolic link
 
+* cron/crontab - create job that runs every so often
+* httpie/http - easier version of curl
+
+* `cd -` - will cd to previous directory
+* `pushd` - cd into new directory but save current location
+* `popd` - will go to previous location in stack
+
+* `sudo !!` - rerun previous command with sudo
+* `<c-r>` - will search through command history
+* `!102` - re-run #102 in command history
+* `<c-u>` - will clear current line instead of holding <bs>
+* `command | column -t` - make output into columns/table
+
+* `cmatrix` - cool looking sort of screen saver
+
 # Text search/manipulation
 
 * grep - look for regex in lines of file(s)

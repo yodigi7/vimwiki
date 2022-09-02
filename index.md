@@ -57,6 +57,18 @@
 
 * [Random commands](Random commands)
 
+* [Random projects](Random projects)
+
 # [Side hustles](Side hustles)
 
 # [Router](Router)
+
+# Personal
+
+* Update my portfolio website to use hugo.
+
+* Youtube RSS feeds
+    * For finding channel id/user - https://commentpicker.com/youtube-channel-id.php
+    * Brodie robertson - https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA
+    * or https://www.youtube.com/feeds/videos.xml?user=OmegaDungeon
+* for reddit - https://www.reddit.com/wiki/rss/#wiki_what_rss_features_does_reddit_have.3F
